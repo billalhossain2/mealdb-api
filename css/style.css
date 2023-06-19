@@ -1,0 +1,48 @@
+.hero-section{
+    position:relative;
+    height: 600px;
+    text-align: center;
+}
+.hero-image-container{
+    height: 100%;
+}
+
+.hero-image{
+    height: 100%;
+}
+.hero-description-text{
+    background: #000000ad;
+    position: absolute;
+    width: 100%;
+    top: 0;
+    height: 100%;
+}
+
+ul{
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+}
+
+.view-detils{
+    color: #c0a117;
+    font-weight: bolder;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.error-msg{
+    color: #8a1414;
+}
+
+.details-content{
+    color: #7a7777;
+}
+
+.modal-body p span:nth-child(2){
+    color: #444242;
+}
+
+.modal-body p span:nth-child(1){
+    font-weight: bolder;
+}
